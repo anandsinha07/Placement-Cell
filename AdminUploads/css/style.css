@@ -1,0 +1,27 @@
+#navbar-tp{
+    background-color: #009CDA;
+}
+
+#id1{
+    height: 150px;
+    
+}
+#Upload{
+    background: #009CDA;
+    width: 200px;
+    
+    
+}
+
+input[type="button"]{
+    padding: 5px;
+    width: 50%;
+    background: #009CDA;
+    
+}
+
+textarea{
+    padding: 5px;
+    width: 50%;
+    
+}
