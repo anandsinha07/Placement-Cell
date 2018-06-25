@@ -1,0 +1,2 @@
+# Placement-Cell
+Placement cell is a website created and developed for college perspective in order to make the training &amp; Placement cell more functional and students reach. The core functionalities of this website is that the TPO is given admin right to upload the training report and placement report which id dynamically visible to students. Also students are allowed to upload their data relevant to placement and they are allotted the company based on selection criterion for placement activities.  Technologies use: HTML/CSS, JavaScript, JQuery, Bootstrap, PHP
